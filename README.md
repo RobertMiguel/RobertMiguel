@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Java**
 
-<a href="https://commons.wikimedia.org/wiki/File:To_Be_Hero_logo.svg"></a>
 
 </br>
 
