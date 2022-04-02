@@ -9,6 +9,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Java**
 
+<a href="https://commons.wikimedia.org/wiki/File:To_Be_Hero_logo.svg">™ HAOLINERS/絵梦</a>, Public domain, via Wikimedia Commons
 
 </br>
 
