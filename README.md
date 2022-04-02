@@ -3,7 +3,7 @@
 
 - 💻 Im a Web Developer
 
-- 📚 Studying frameworks at the moment
+- 📚 Studying java at the moment
 
 - 😋 Programming is **delicious**
 
