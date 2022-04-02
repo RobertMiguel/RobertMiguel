@@ -34,8 +34,6 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertMiguel&layout=compact&theme=dracula" alt="RobertMiguel's most languages"/>
 </p>
 
- </br></br>
-
 ##  🤴 &nbsp;Social Links
 
 <a href="https://twitter.com/HeyRoberti" target="_blank">
