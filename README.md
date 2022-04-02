@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Java**
 
-- 🥳 You are my friend now
 
 </br>
 
