@@ -30,8 +30,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=RobertMiguel&show_icons=true&theme=dracula" alt="RobertMiguel's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertMiguel&layout=compact&theme=dracula" alt="RobertMiguel's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=RobertMiguel&show_icons=true&theme=tokyonight" alt="RobertMiguel's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertMiguel&layout=compact&theme=tokyonight" alt="RobertMiguel's most languages"/>
 </p>
 
 ##  🤴 &nbsp;Social Links
