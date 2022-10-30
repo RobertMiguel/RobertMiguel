@@ -5,7 +5,7 @@
 
 - I'm taking a computer technician course at **EEEP Manoel Mano School**
 
-- 📚 I'm studying **object-oriented Java, JavaScript** and **html/css**
+- 📚 I'm studying **Javascript**
 
 - 👨‍💻 My instagram is [robert.mvr](https://www.instagram.com/robert.mvr/) and twitter is [@HeyRobert](https://twitter.com/HeyRoberti)
 
@@ -24,7 +24,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Java](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)
 
 ## ⚙️ &nbsp;GitHub Analytics
