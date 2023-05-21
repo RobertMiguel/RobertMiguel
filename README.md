@@ -2,7 +2,6 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/RobertMiguel/98ab26ec0029f35666d05bc25e6bf544/raw/d657911b330ae36a2d1cffa3453e403fd98d8374/githubcast.svg"/>
 <h1 align="left">Hi love <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Robert Miguel</h1>
 
-
 - I'm taking a computer technician course at **EEEP Manoel Mano School**
 
 - 📚 I'm studying **Javascript**
