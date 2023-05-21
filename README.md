@@ -56,5 +56,3 @@
 ##  🐍 &nbsp; Snake
 
 ![Snake animation](https://github.com/RobertMiguel/RobertMiguel/blob/output/github-contribution-grid-snake.svg)
-![coracao](https://github.githubassets.com/images/icons/emoji/unicode/2764.png)
-
