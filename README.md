@@ -1,17 +1,3 @@
-<h1 align="left">Hi love <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Robert Miguel</h1>
-
-- I'm taking a computer technician course at **EEEP Manoel Mano School**
-
-- 📚 I'm studying **Javascript**
-
-- 👨‍💻 My instagram is [robert.mvr](https://www.instagram.com/robert.mvr/) and twitter is [@HeyRobert](https://twitter.com/HeyRoberti)
-
-- 💬 Ask me about **JavaScript, HTML, CSS, Java, PHP**
-
-- ⚡ I'm very **energized 😜**
-
-</br></br>
-
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
