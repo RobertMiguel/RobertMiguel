@@ -13,7 +13,7 @@
       <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <td valign="top">
-      <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RobertMiguel&theme=transparent"/>
+      <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RobertMiguel&theme=transparent"/>
     </td>
     <!-- Github Top Languages -->
       <td valign="top">
