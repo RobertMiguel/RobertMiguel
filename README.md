@@ -4,20 +4,20 @@
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <td valign="top">
-      <img height="200" src="http://github-readme-streak-stats.herokuapp.com?user=RobertMiguel&theme=modern-lilac2"/>
+      <img height="200" src="http://github-readme-streak-stats.herokuapp.com?user=RobertMiguel&theme=transparent"/>
     </td>
     <!-- Github Top Languages -->
       <td valign="top">
-        <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RobertMiguel&theme=midnight_purple"/>
+        <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RobertMiguel&theme=transparent"/>
       </td>
       <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <td valign="top">
-      <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RobertMiguel&theme=midnight_purple"/>
+      <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RobertMiguel&theme=transparent"/>
     </td>
     <!-- Github Top Languages -->
       <td valign="top">
-        <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RobertMiguel&theme=midnight_purple"/>
+        <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RobertMiguel&theme=transparent"/>
       </td>
   </tr>
   </tr>
